@@ -1,1 +1,2 @@
 QCLSRC    BUILD     CLP       Installazione
+QCLSRC    ALTROFILE CLP       File di test funzionalità
